@@ -5,3 +5,5 @@
 Para ejecutar el sitema, debes poner:
 
 ```npm install  XXX```
+
+sistema de registro actualizado
